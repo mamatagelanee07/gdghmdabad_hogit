@@ -1,0 +1,4 @@
+text1
+edit1
+edit from git
+edit drom git1 edit2
